@@ -1,0 +1,14 @@
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\bin\Debug\net8.0\days_of_week.exe
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\bin\Debug\net8.0\days_of_week.deps.json
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\bin\Debug\net8.0\days_of_week.runtimeconfig.json
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\bin\Debug\net8.0\days_of_week.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\bin\Debug\net8.0\days_of_week.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.AssemblyInfoInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.AssemblyInfo.cs
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.csproj.CoreCompileInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\refint\days_of_week.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\days_of_week.genruntimeconfig.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\days_of_week\days_of_week\obj\Debug\net8.0\ref\days_of_week.dll
